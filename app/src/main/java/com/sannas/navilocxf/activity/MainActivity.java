@@ -19,6 +19,7 @@ import java.util.Date;
 
 /**
  * 能够获取当前的位置信息
+ * 大哥Git提交了
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener
         ,AMapLocationListener {
